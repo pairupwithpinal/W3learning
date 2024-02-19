@@ -1,9 +1,9 @@
-package Week1;
+package feature.Week1;
 
 public class AreaofCircle {
     public static void main(String[] args) {
         // Declare radius
-        double radius = 12.4;
+        double radius = 12;
         // Declare pi
         double PI = 3.14;
         // calculate area

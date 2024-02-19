@@ -1,4 +1,4 @@
-package Week1;
+package feature.Week1;
 
 public class Structure {
 
